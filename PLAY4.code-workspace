@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+		    "name": "src",
+    		"uri": "isfs://PLAY4:PLAY4/"
+		}
+	],
+	"settings": {}
+}

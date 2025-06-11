@@ -1,0 +1,7 @@
+{
+    "objectscript.conn": {
+        "server": "play4",
+        "ns": "PLAY4",
+        "active": true
+    }
+}
